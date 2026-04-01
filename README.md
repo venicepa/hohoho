@@ -27,7 +27,7 @@ Before
 <img width="450" height="512" alt="image" src="https://github.com/user-attachments/assets/aadd8108-9cd0-4c35-99b8-6b0626d66948" />
 
 After 
-<img width="919" height="1024" alt="image" src="https://github.com/user-attachments/assets/11a66346-0cda-4c4c-afdd-f42d908fcb53" />
+<img width="450" height="512" alt="image" src="https://github.com/user-attachments/assets/11a66346-0cda-4c4c-afdd-f42d908fcb53" />
 
 
 ## 🛠 關鍵功能 (Key Features)
