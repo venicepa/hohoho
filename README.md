@@ -23,7 +23,11 @@
 2.  **Orchestration Layer (NLWeb)：** 介於前後端之間，負責自然語言解析、API 參數對齊與會話狀態管理。
 3.  **Backend (現有架構)：** `提供穩定的金融業務邏輯與 API 接口。
 
+Before 
 <img width="450" height="512" alt="image" src="https://github.com/user-attachments/assets/aadd8108-9cd0-4c35-99b8-6b0626d66948" />
+
+After 
+<img width="919" height="1024" alt="image" src="https://github.com/user-attachments/assets/11a66346-0cda-4c4c-afdd-f42d908fcb53" />
 
 
 ## 🛠 關鍵功能 (Key Features)
