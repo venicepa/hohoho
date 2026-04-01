@@ -19,9 +19,11 @@
 ## 🏗 技術架構 (Architecture)
 本專案整合了現有的金融系統基礎設施，並引入智慧化編排層：
 
-1.  **Frontend (現有架構)：** `[請填寫，例如：React / Next.js]`，負責呈現複雜網頁 UI 與 Chat 組件。
+1.  **Frontend (現有架構)：** 負責呈現複雜網頁 UI 與 Chat 組件。
 2.  **Orchestration Layer (NLWeb)：** 介於前後端之間，負責自然語言解析、API 參數對齊與會話狀態管理。
-3.  **Backend (現有架構)：** `[請填寫，例如：Java Spring Boot / Docker 部署]`，提供穩定的金融業務邏輯與 API 接口。
+3.  **Backend (現有架構)：** `提供穩定的金融業務邏輯與 API 接口。
+
+<img width="919" height="1024" alt="image" src="https://github.com/user-attachments/assets/aadd8108-9cd0-4c35-99b8-6b0626d66948" />
 
 > **提示：** 建議在此處附上一張說明 `User -> Chat UI -> NLWeb -> Backend API -> Database` 的系統架構圖，這對評審快速理解系統資料流非常有幫助。
 
